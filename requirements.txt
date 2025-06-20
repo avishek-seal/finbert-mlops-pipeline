@@ -1,0 +1,6 @@
+boto3
+sagemaker>=2.199.0
+pandas
+scikit-learn
+transformers
+pyarrow
